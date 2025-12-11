@@ -1,0 +1,8 @@
+streamlit
+pandas
+python-dotenv
+agno
+groq
+yfinance
+vaderSentiment
+LLM
